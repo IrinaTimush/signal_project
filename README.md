@@ -67,6 +67,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Student ID: i6341536
 - Student ID: i6360797
 
+
+## uml_models link:
+https://github.com/IrinaTimush/signal_project/tree/master/src/uml_models
+
 ## Sequence Diagram Description
 First of all, patient data source is an external to the system object, because they are
 patients themselves. From the patients, the information is sent to the AlertGenerator,
